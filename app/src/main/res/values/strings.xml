@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filtro Viajes</string>
+    <string name="service_desc">Lee la pantalla de las apps de conductor (Uber, DiDi e inDrive) solo para calcular cuánto te pagan por km y por hora en cada solicitud y mostrarte si te conviene. No guarda ni envía datos.</string>
+</resources>

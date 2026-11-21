@@ -1,0 +1,11 @@
+FILTRO VIAJES - como obtener el APK (gratis, sin instalar nada en el computador)
+
+1. Crea una cuenta gratis en github.com y un repositorio nuevo.
+2. Sube todo el contenido de esta carpeta (incluida la carpeta oculta .github).
+3. Entra a la pestana "Actions", espera a que termine "Compilar APK" (unos 5 min).
+4. Abre esa ejecucion, baja "FiltroViajes-apk" y descomprime: dentro esta app-debug.apk.
+5. Pasalo al celular, instalalo y abre Filtro Viajes.
+6. Toca "Activar permiso de accesibilidad" y enciende Filtro Viajes.
+   Si Android lo bloquea: Ajustes > Aplicaciones > Filtro Viajes > tres puntos > Permitir ajustes restringidos.
+
+Alternativa: abrir la carpeta con Android Studio y darle Build > Build APK.
